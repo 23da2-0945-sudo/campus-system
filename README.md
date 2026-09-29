@@ -81,3 +81,4 @@ campus-system/
 - Keep the repository organized and include a final working version before submission.
 - If required by the lecturer, verify that all team members’ contributions are clearly recorded.
 - Confirm that the program runs successfully from the command line before final submission.
+"# campus-system" 
